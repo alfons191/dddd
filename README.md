@@ -20,13 +20,13 @@ Flights Booking web application project
     <tr>
     <td>- PostgreSQL</td>
     <td>- JavaScript</td>
-    <td>dfdf</td>
+    <td>.</td>
   </tr>
   
 <tr>
     <td>- Heroku</td>
     <td>- jQuery</td>
-     <td>fgf</td>
+     <td>.</td>
 
   </tr>
   
@@ -34,7 +34,7 @@ Flights Booking web application project
 <tr>
     <td>- Bootstrap</td>
     <td>vdvd</td>
-    <td>dvdv</td>
+    <td>.</td>
   </tr>
   
 </table> 
