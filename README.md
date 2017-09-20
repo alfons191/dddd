@@ -33,7 +33,7 @@ Flights Booking web application project
   
 <tr>
     <td>- Bootstrap</td>
-    <td>vdvd</td>
+    <td>.</td>
     <td>.</td>
   </tr>
   
