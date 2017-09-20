@@ -6,34 +6,36 @@ Flights Booking web application project
     <th>2. Front-end:</th>
     <th>3. Test technology:</th>
   </tr>
+  
   <tr>
     <td>- Maven</td>
     <td>- Ajax</td>
     <td>- JUnit</td>
-    <th>- JUnit</th>
   </tr>
+  
   <tr>
     <td>- Spring (Spring Boot, Spring Data, Spring Security)</td>
     <td>- Thymeleaf</td>
     <td>- Mockito</td>
   </tr>
   
-    <tr>
+  <tr>
     <td>- PostgreSQL</td>
     <td>- JavaScript</td>
     <td>.</td>
   </tr>
   
-<tr>
+  <tr>
     <td>- Heroku</td>
     <td>- jQuery</td>
      <td>.</td>
-
   </tr>
   
   
 <tr>
-
+    <td>- Heroku</td>
+    <td>- jQuery</td>
+     <td>.</td>
   </tr>
   
 </table> 
