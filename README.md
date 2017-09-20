@@ -20,19 +20,21 @@ Flights Booking web application project
     <tr>
     <td>- PostgreSQL</td>
     <td>- JavaScript</td>
-    <td></td>
+    <td>dfdf</td>
   </tr>
   
 <tr>
     <td>- Heroku</td>
     <td>- jQuery</td>
+     <td>fgf</td>
 
   </tr>
   
   
 <tr>
-
     <td>- Bootstrap</td>
+    <td>vdvd</td>
+    <td>dvdv</td>
   </tr>
   
 </table> 
