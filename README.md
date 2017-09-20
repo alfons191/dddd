@@ -1,9 +1,10 @@
+Flights Booking web application project
+
  <table style="width:100%">
   <tr>
     <th>1. Technology Used:</th>
     <th>2. Front-end:</th>
     <th>3. Test technology:</th>
-    <th></th>
   </tr>
   <tr>
     <td>- Maven</td>
@@ -22,12 +23,16 @@
     <td></td>
   </tr>
   
-    <tr>
+<tr>
     <td>- Heroku</td>
-    <td>- jQuery, Bootstrap</td>
-    <td></td>
-    </tr>
+    <td>- jQuery</td>
+
+  </tr>
   
   
+<tr>
+
+    <td>- Bootstrap</td>
+  </tr>
   
-</table>  
+</table> 
