@@ -33,8 +33,8 @@ Flights Booking web application project
   
   
 <tr>
-    <td>- Heroku</td>
-    <td>- jQuery</td>
+    <td>- Bootstrap</td>
+    <td>.</td>
      <td>.</td>
   </tr>
   
