@@ -10,6 +10,7 @@ Flights Booking web application project
     <td>- Maven</td>
     <td>- Ajax</td>
     <td>- JUnit</td>
+    <td>- JUnit</td>
   </tr>
   <tr>
     <td>- Spring (Spring Boot, Spring Data, Spring Security)</td>
