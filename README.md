@@ -1,6 +1,6 @@
 Flights Booking web application project
 
- <table style="width:100%">
+ <table style="width:60%">
   <tr>
     <th>1. Technology Used:</th>
     <th>2. Front-end:</th>
